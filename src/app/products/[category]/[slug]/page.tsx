@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: Props) {
   if (!product) return { title: 'Product Not Found' };
   
   return {
-    title: `${product.name} | Luxe Furnishings`,
+    title: `${product.name} | Anjum Furnitures`,
     description: product.description,
   };
 }

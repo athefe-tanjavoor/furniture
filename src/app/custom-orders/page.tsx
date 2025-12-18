@@ -30,7 +30,7 @@ const steps = [
 ];
 
 export const metadata = {
-  title: 'Custom Orders | Luxe Furnishings',
+  title: 'Custom Orders | Anjum Furnitures',
   description: 'Bespoke furniture designed for your unique space.',
 };
 

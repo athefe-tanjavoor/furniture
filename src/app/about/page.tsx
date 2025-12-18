@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 export const metadata = {
-  title: 'About Us | Luxe Furnishings',
+  title: 'About Us | Anjum Furnitures',
   description: 'Learn about our heritage, craftsmanship, and commitment to luxury furniture.',
 };
 
@@ -12,7 +12,7 @@ export default function AboutPage() {
       <section className="relative h-[60vh] min-h-[500px] flex items-center justify-center bg-neutral-900 text-white overflow-hidden">
         <Image
           src="/images/hero.png"
-          alt="About Luxe"
+          alt="About Anjum Furnitures"
           fill
           className="object-cover opacity-60"
           priority
@@ -39,7 +39,7 @@ export default function AboutPage() {
             <h2 className="text-3xl md:text-4xl font-serif font-medium text-neutral-900">A Tradition of Excellence</h2>
             <div className="w-12 h-0.5 bg-neutral-900"></div>
             <p className="text-neutral-600 leading-relaxed text-lg">
-              Founded on the principles of quality and authenticity, Luxe Furnishings has been redefining luxury living for over two decades. We believe that furniture is not just functional; it is an expression of art that shapes the way we live.
+              Founded on the principles of quality and authenticity, Anjum Furnitures has been redefining luxury living for over two decades. We believe that furniture is not just functional; it is an expression of art that shapes the way we live.
             </p>
             <p className="text-neutral-600 leading-relaxed text-lg">
               Our journey began with a simple vision: to bridge the gap between traditional craftsmanship and modern aesthetics. Today, we collaborate with master artisans who bring generations of skill to every piece they create.
@@ -52,7 +52,7 @@ export default function AboutPage() {
       <section className="bg-neutral-50 py-24 px-6">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-serif font-medium text-neutral-900">The Luxe Difference</h2>
+            <h2 className="text-3xl md:text-4xl font-serif font-medium text-neutral-900">The Anjum Furnitures Difference</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12 text-center">

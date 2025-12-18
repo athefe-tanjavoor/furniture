@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Luxe Furnishings | Premium Luxury Furniture",
+  title: "Anjum Furnitures | Premium Luxury Furniture",
   description: "Experience the epitome of luxury living with our handcrafted furniture collections.",
 };
 

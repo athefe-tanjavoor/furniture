@@ -2,7 +2,7 @@ import { MapPin, Phone, Mail, Clock, MessageCircle } from 'lucide-react';
 import EnquiryForm from '@/components/EnquiryForm';
 
 export const metadata = {
-  title: 'Contact Us | Luxe Furnishings',
+  title: 'Contact Us | Anjum Furnitures',
   description: 'Get in touch with us for inquiries, custom orders, or to visit our showroom.',
 };
 
@@ -62,7 +62,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-serif font-medium text-lg mb-1">Email Us</h3>
-                  <p className="text-neutral-600">hello@luxefurnishings.com</p>
+                  <p className="text-neutral-600">hello@anjumfurnitures.com</p>
                 </div>
               </div>
             </div>

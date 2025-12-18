@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="space-y-4">
-            <h3 className="tex-xl font-serif font-bold">LUXE.</h3>
+            <h3 className="tex-xl font-serif font-bold">Anjum Furnitures</h3>
             <p className="text-neutral-500 text-sm leading-relaxed">
               Crafting timeless furniture pieces that elevate your living space with elegance and comfort.
             </p>
@@ -49,7 +49,7 @@ export default function Footer() {
         </div>
         
         <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-neutral-200 text-xs text-neutral-400">
-          <p>&copy; 2024 Luxe Furnishings. All rights reserved.</p>
+          <p>&copy; 2024 Anjum Furnitures. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="#" className="hover:text-neutral-900">Instagram</Link>
             <Link href="#" className="hover:text-neutral-900">Pinterest</Link>

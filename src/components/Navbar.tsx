@@ -53,7 +53,7 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="text-2xl font-serif font-bold tracking-tight text-neutral-900">
-            LUXE.
+            Anjum Furnitures
           </Link>
 
           {/* Desktop Navigation */}

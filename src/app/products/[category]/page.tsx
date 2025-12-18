@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: Props) {
   if (!category) return { title: 'Category Not Found' };
   
   return {
-    title: `${category.name} | Luxe Furnishings`,
+    title: `${category.name} | Anjum Furnitures`,
     description: category.description,
   };
 }
